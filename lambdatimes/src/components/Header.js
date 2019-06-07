@@ -38,7 +38,6 @@ const HeaderContainer = styled.div`
   margin-top: 44px;
   padding-bottom: 15px;
   @media (min-width: 1280px) {
-  .header {
     width: 1280px;
   }
 `;

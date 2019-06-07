@@ -69,6 +69,7 @@ const TopBarWrapper = styled.div`
   position: fixed;
   height: 44px;
   background-color: #333;
+  z-index: 999;
 `;
 
 const TopBar = () => {
